@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Nandani Kesharwani 👋
 
-<!--
-**nandanikesharwani/nandanikesharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst | SQL • Python • Power BI
 
-Here are some ideas to get you started:
+I turn raw data into meaningful insights using analytics, visualization, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech in Electronics & Communication Engineering  
+📍 Delhi, India  
+🚀 Currently learning Machine Learning & Streamlit  
+💡 Interested in Data Analytics & AI Projects
+
+---
+
+# 🛠️ Skills
+
+### Analytics & BI
+- SQL
+- Power BI
+- Excel
+- Data Visualization
+
+### Programming
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+### Currently Learning
+- Machine Learning
+- Streamlit
+- Statistics for Data Science
+
+---
+
+# 📂 Featured Projects
+
+## 🍽️ Food Delivery Data Analysis
+Analyzed customer behavior, revenue trends, and restaurant performance using SQL & Power BI.
+
+## ⚡ Electricity Generation Using Waste Material
+Built an innovative sustainable energy generation project using waste material concepts.
+
+## 📢 Smart Notice Board
+IoT-based wireless notice board using Arduino for real-time updates.
+
+## 🚆 Railway Track Crack Detector
+Safety-focused embedded system project for railway track monitoring.
+
+---
+
+# 📌 What I'm Working On
+
+- 📊 Building Data Analytics Projects
+- 🤖 Learning Machine Learning
+- 🚀 Improving Power BI & Python Skills
+
+---
+
+# 📬 Let's Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/nandani-kesharwani
+- 💻 GitHub: github.com/nandanikesharwani
