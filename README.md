@@ -37,14 +37,17 @@ I turn raw data into meaningful insights using analytics, visualization, and mac
 ## 🍽️ Food Delivery Data Analysis
 Analyzed customer behavior, revenue trends, and restaurant performance using SQL & Power BI.
 
-## ⚡ Electricity Generation Using Waste Material
-Built an innovative sustainable energy generation project using waste material concepts.
+## 🧠 Depression & CFS Prediction
+Python और Machine Learning techniques का उपयोग करके Depression और Chronic Fatigue Syndrome prediction model बनाया।
 
-## 📢 Smart Notice Board
-IoT-based wireless notice board using Arduino for real-time updates.
+*Skills:* Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis
 
-## 🚆 Railway Track Crack Detector
-Safety-focused embedded system project for railway track monitoring.
+---
+
+## 🛍️ RFM Customer Segmentation
+RFM (Recency, Frequency, Monetary) analysis का उपयोग करके customer behavior analysis और customer segmentation किया।
+
+*Skills:* Python, Pandas, Data Visualization, Customer Analytics, Matplotlib, Seaborn
 
 ---
 
