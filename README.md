@@ -37,17 +37,20 @@ I turn raw data into meaningful insights using analytics, visualization, and mac
 ## 🍽️ Food Delivery Data Analysis
 Analyzed customer behavior, revenue trends, and restaurant performance using SQL & Power BI.
 
-## 🧠 Depression & CFS Prediction
-Python और Machine Learning techniques का उपयोग करके Depression और Chronic Fatigue Syndrome prediction model बनाया।
 
-*Skills:* Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis
+## 🧠 [Depression & CFS Prediction](https://github.com/nandanikesharwani/Depression-CFS-Both-Prediction)
+
+Python का उपयोग करके Depression और Chronic Fatigue Syndrome prediction के लिए Machine Learning model बनाया।
+
+Python • Machine Learning • Pandas • NumPy • Scikit-learn
 
 ---
 
-## 🛍️ RFM Customer Segmentation
-RFM (Recency, Frequency, Monetary) analysis का उपयोग करके customer behavior analysis और customer segmentation किया।
+## 🛍️ [RFM Customer Segmentation](https://github.com/nandanikesharwani/RFM-Customer-Segmentation)
 
-*Skills:* Python, Pandas, Data Visualization, Customer Analytics, Matplotlib, Seaborn
+RFM (Recency, Frequency, Monetary) analysis का उपयोग करके customer segmentation और behavior analysis किया।
+
+Python • Pandas • Matplotlib • Seaborn • Data Analysis
 
 ---
 
