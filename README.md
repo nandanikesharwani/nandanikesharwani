@@ -54,7 +54,7 @@ Python • Pandas • Matplotlib • Seaborn • Data Analysis
 
 - 📊 Building Data Analytics Projects
 - 🤖 Learning Machine Learning
-- 🚀 Improving Power BI & Python Skills
+- 🚀 Improving Power BI & Python, Pandas Skills
 
 ---
 
