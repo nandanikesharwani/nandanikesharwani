@@ -34,6 +34,16 @@ I turn raw data into meaningful insights using analytics, visualization, and mac
 
 # 📂 Featured Projects
 
+
+## 🍔 [Food Delivery Data Analysis](https://github.com/nandanikesharwani/Food-Delivery-Data-Analysis-using-PowerBI-and-SQL)
+
+Built an end-to-end Food Delivery analytics project using SQL and Power BI to analyze customer behavior, sales trends, restaurant performance, and business insights.
+
+Power BI • SQL • Data Analysis • Dashboard • Business Insights
+
+---
+
+
 ## 🧠 [Depression & CFS Prediction](https://github.com/nandanikesharwani/Depression-CFS-Both-Prediction)
 
 Built a Machine Learning model for predicting Depression and Chronic Fatigue Syndrome using Python.
